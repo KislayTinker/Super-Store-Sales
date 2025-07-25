@@ -4,7 +4,7 @@ Welcome to the **Sales Dashboard**, a professional-grade business intelligence s
 
 ---
 
-![Dashboard Preview](assets/sales-dashboard-preview.png)
+![Dashboard Preview](https://github.com/KislayTinker/Super-Store-Sales/blob/main/Super%20Store%20Sales%20Dashboard.png)
 
 ---
 
