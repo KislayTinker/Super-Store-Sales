@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard | Power BI Project
+# 📊 Super Store Sales Dashboard | Power BI Project
 
 Welcome to the **Sales Dashboard**, a professional-grade business intelligence solution built using Microsoft Power BI. This dashboard is designed to provide **actionable insights** into sales performance, customer behavior, and product trends across various dimensions. It enables decision-makers to visualize KPIs, explore trends, and uncover opportunities — all in one interactive report.
 
